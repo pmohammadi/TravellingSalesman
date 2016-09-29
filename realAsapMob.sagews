@@ -212,7 +212,7 @@ show(circle1+circle2+circle3+circle4+small_circle+points+starting_pt_graphic)
 ︠f0d58652-814d-42bc-b966-dffe526c0003︠
 #RULES
 #1. Start with the starting point, go clockwise on circle that it's in
-#2.
+#2. New rule
 #3.
 
 
